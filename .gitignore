@@ -1,0 +1,9 @@
+.idea
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.retype/
+solutions/
